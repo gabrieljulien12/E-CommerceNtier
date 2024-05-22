@@ -1,0 +1,1 @@
+﻿bu kısım bizim veri tabanımızdaki tablolarımızı olusturdugumuz ve bu tablolarımızdaki ilişkilerin ilk etabını yaptımız kısımdır

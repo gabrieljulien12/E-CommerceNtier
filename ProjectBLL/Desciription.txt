@@ -1,0 +1,4 @@
+﻿Bll katmanı bizim dal katmanında yaptıgım basit repostiry crud işlemlerimizi modifiye etmemize olanak tanır mesela add user die bir repository yazdık (Dal) katmanında
+bll katmanındada ona şunu diyebiliriz eger yazdıgınız isim kullanıyorsa kayıt etme butamamen iş akısına veridigim bir örnek yani kısacası koşullarınız burada yazın 
+dal katmanında söyledigim gibi kosullarınız degişmez ama repository de kullandınız teknolojiler degise bilir veyahut çalıştınızı şirket sizden bir iş akısı yazmanızı isterse
+bunu direk buraya yazarak kodu daha yalın daha düzgün hala getirsiniz yoksa her iş akısınızı dal daki repositoryde yazarsanız kodunuz corba olucaktır

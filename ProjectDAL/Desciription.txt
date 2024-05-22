@@ -1,0 +1,6 @@
+﻿Dal(data-acses-layer) bu kısımda repositorylerimizi context sınıfımızı vede entities de yaptımız tablo eslestirmelerimizin configurasyonlarını yazıyoruz 
+normalde bu kısımda direkt olarak uı ya baglana biliriz ama iş akısımızın oldugu bll kısmı bizim için cok önemli 
+sebebide su farklı teknolojilere gectiginiz zaman repostiylerinizi degistire bilirsiniz ama iş akısınız asla degismez egerki bll katmanında yapıcagınız 
+iş akıslarını girip bu katmanda yaparsanız yeni bir akıs eklemek veyahut teknolojiyi degistirirken tekrardan yazmanız gerekicektir buda size hem zaman kaybı 
+yaratır  hemde kodunuzu corba haline getirmiş olur
+

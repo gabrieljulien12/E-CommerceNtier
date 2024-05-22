@@ -1,0 +1,2 @@
+﻿burada bunu repository de yaptımız gibi yapmamızın sebebi interface segregation prensibidir 
+bir arayüzde sadece ihtiyac duyulan metotların içermesi gerektigini belirten bir tasarım prensibidir.
